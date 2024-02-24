@@ -1,0 +1,1 @@
+rgpassword-reset.netlify.app/
