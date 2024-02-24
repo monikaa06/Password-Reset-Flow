@@ -1,1 +1,1 @@
-rgpassword-reset.netlify.app/
+https://rgpassword-reset.netlify.app/
